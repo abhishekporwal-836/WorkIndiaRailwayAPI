@@ -1,0 +1,12 @@
+# Node modules (never push these!)
+node_modules/
+
+# Environment variable files
+.env
+
+# Debugging
+.vscode/
+
+# Logs
+logs/
+*.log
